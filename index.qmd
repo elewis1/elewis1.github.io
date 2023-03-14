@@ -1,11 +1,27 @@
 ---
-title: "elewis1.github.io"
+title: "Eli Lewis"
+
+image: headshot.png
+about: 
+  template: trestles
+  image-shape: rounded
+  image-width: 15em
+  links:
+    - text: GitHub
+      href: https://github.com/elewis1
+    - text: Email
+      href: mailto:elalewis@ucsc.edu
 ---
 
-This is a Quarto website.
+Eli is an aspring Marine Biologist. When not studying he can be found surfing, diving, and taking Underwater photos. 
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
+University of California, Santa Cruz | Santa Cruz, CA.
+B.S in Marine Biology | In Progress
+
+## Experience
+---
+
+```{}
 ```

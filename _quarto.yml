@@ -3,12 +3,13 @@ project:
   output-dir: docs
 
 website:
-  title: "elewis1.github.io"
+  title: "Eli Lewis"
   navbar:
     left:
       - href: index.qmd
         text: Home
       - about.qmd
+      - resources.qmd # my new navbar page
 
 format:
   html:
