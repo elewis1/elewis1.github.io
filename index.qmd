@@ -11,17 +11,14 @@ about:
       href: https://github.com/elewis1
     - text: Email
       href: mailto:elalewis@ucsc.edu
+    - text: Blog
+      href: blog.qmd
 ---
 
-Eli is an aspring Marine Biologist. When not studying he can be found surfing, diving, and taking Underwater photos. 
+Eli is an aspring Marine Biologist. When not studying he can be found surfing, diving, and taking Underwater photos.
 
 ## Education
 
-University of California, Santa Cruz | Santa Cruz, CA.
-B.S in Marine Biology | In Progress
+University of California, Santa Cruz \| Santa Cruz, CA. B.S in Marine Biology \| In Progress
 
-## Experience
----
-
-```{}
-```
+## \## Experience

@@ -8,8 +8,9 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
-      - resources.qmd # my new navbar page
+      #- resources.qmd # my new navbar page
+      - href: blog.qmd
+        text: Blog
 
 format:
   html:
