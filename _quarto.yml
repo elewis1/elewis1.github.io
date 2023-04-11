@@ -9,8 +9,10 @@ website:
       - href: index.qmd
         text: Home
       #- resources.qmd # my new navbar page
-      - href: blog.qmd
-        text: Blog
+      #- href: blog.qmd
+      #  text: Blog
+      - href: photography.qmd
+        text: Photography
 
 format:
   html:

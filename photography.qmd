@@ -1,0 +1,5 @@
+
+
+```{=html}
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/198095053@N06/albums/72177720307411892" title="Monterey Diving"><img src="https://live.staticflickr.com/65535/52808837037_b42fbb7059_c.jpg" width="800" height="600" alt="Monterey Diving"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+```
