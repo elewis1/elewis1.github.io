@@ -1,20 +1,25 @@
 ---
 title: "Eli Lewis"
 
+favicon: favicon.ico
 image: headshot.png
 about: 
   template: trestles
   image-shape: rounded
   image-width: 15em
   links:
-    - text: GitHub
+    - icon: github
       href: https://github.com/elewis1
-    - text: Email
+      aria-label: GitHub
+    - icon: envelope
       href: mailto:elalewis@ucsc.edu
-    - text: CV
+      aria-label: Email
+    - icon: file-earmark-person
       href: https://drive.google.com/file/d/1c_AwumMFxFqQReerWskOufyG930WDE-8/view?usp=share_link
-    - text: Flicr
+      aria-label: Current-CV
+    - icon: image
       href: https://flic.kr/ps/423TzA
+      aria-label: Flicr-Gallery
 ---
 
 Eli is an aspiring Marine Biologist. When not studying he can be found surfing, diving, and taking Underwater photos.
