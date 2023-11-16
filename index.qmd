@@ -1,11 +1,4 @@
 ---
-'''
-{=html}
-<meta http-equiv='cache-control' content='no-cache'> 
-<meta http-equiv='expires' content='0'> 
-<meta http-equiv='pragma' content='no-cache'>
-'''
----
 title: "Eli Lewis"
 
 favicon: favicon.ico
@@ -27,6 +20,11 @@ about:
     - icon: image
       href: https://flic.kr/ps/423TzA
       aria-label: Flicr-Gallery
+---
+'''{=html}
+<meta http-equiv='cache-control' content='no-cache'> 
+<meta http-equiv='expires' content='0'> 
+<meta http-equiv='pragma' content='no-cache'>
 ---
 
 Eli is an aspiring Marine Biologist. When not studying he can be found surfing, diving, and taking Underwater photos.
