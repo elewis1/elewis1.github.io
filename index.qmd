@@ -15,7 +15,7 @@ about:
       href: mailto:elalewis@ucsc.edu
       aria-label: Email
     - icon: file-earmark-person
-      href: https://drive.google.com/file/d/1jBoIdBEx0zmtDlvjZrZncQEIafFfRBDC/view?usp=sharing
+      href: https://docs.google.com/document/d/12m9GJCInUaI0emUxRdLsjiAYZeFK_9FS/edit?usp=sharing&ouid=117224765699884756359&rtpof=true&sd=true
       aria-label: Current-CV
     - icon: image
       href: https://flic.kr/ps/423TzA
